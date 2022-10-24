@@ -1,0 +1,58 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.3.0",
+        "name": "com.microchip.mcu8.mplabx.project.avr-iot-cellular-mini-provisioning-mplab",
+        "version": "1.0.0",
+        "displayName": "AVR-IoT Cellular Mini provisioning firmware",
+        "projectName": "avr-iot-cellular-mini-provisioning-mplab",
+        "shortDescription": "Firmware used during the cloud provisioning process for AVR-IoT Cellular Mini, see https://iot.microchip.com/",
+        "ide": {
+            "name": "MPLAB X",
+            "semverRange": ">=6.0.0"
+        },
+        "compiler": [
+            {
+                "name": "XC8",
+                "semverRange": ">=2.36.0"
+            }
+        ],
+        "dfp": {
+            "name": "AVR-Dx_DFP",
+            "semverRange": ">=1.10.124"
+        },
+        "configurator": {
+            "name": "MCC",
+            "semverRange": ">=5.1.1"
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "AVR128DB48",
+                "versionRange": "*"
+            }
+        },
+        "author": "Microchip",
+        "peripherals": [
+            "I2C",
+            "TWI",
+            "UART"
+        ],
+        "keywords": ["Communication", "IoT", "IoT Provisioning", "Wireless", "I2C", "Crypto Authentication Library", "UART", "MCC", "XC8"],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}
