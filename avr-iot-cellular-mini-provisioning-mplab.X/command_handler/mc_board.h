@@ -12,6 +12,6 @@ uint16_t mc_reset(uint8_t argc, char *argv[], uint8_t *data, uint16_t *data_leng
 #define MC_BOARD_NAME    ("AVR-IoT Cellular Mini")
 #define MC_FW_NAME       ("AVR-IoT Cellular Mini provisioning FW")
 // Version of the complete firmware (as opposed to the Command handler version MC_VERSIONSTRING found in mc_parser.h)
-#define MC_FW_VERSION    ("1.1.9")
+#define MC_FW_VERSION    ("1.1.10")
 
 #endif
