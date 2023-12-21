@@ -257,11 +257,11 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>noID</platformTool>
         <languageToolchain>XC8</languageToolchain>
-        <languageToolchainVersion>2.40</languageToolchainVersion>
+        <languageToolchainVersion>2.45</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
-        <pack name="AVR-Dx_DFP" vendor="Microchip" version="2.1.152"/>
+        <pack name="AVR-Dx_DFP" vendor="Microchip" version="2.4.286"/>
       </packs>
       <ScriptingSettings>
       </ScriptingSettings>
@@ -409,11 +409,11 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>noID</platformTool>
         <languageToolchain>XC8</languageToolchain>
-        <languageToolchainVersion>2.40</languageToolchainVersion>
+        <languageToolchainVersion>2.45</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
-        <pack name="AVR-Dx_DFP" vendor="Microchip" version="2.1.152"/>
+        <pack name="AVR-Dx_DFP" vendor="Microchip" version="2.4.286"/>
       </packs>
       <ScriptingSettings>
       </ScriptingSettings>

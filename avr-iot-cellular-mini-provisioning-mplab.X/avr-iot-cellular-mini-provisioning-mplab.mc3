@@ -1,4 +1,4 @@
-<config configName="default" projectName="avr-iot-cellular-mini-provisioning-mplab" configVersion="1.1" device="AVR128DB48" deviceLibraryClass="com.microchip.mcc.melody.Library" coreVersion="5.4.1">
+<config configName="default" projectName="avr-iot-cellular-mini-provisioning-mplab" configVersion="1.1" device="AVR128DB48" deviceLibraryClass="com.microchip.mcc.melody.Library" coreVersion="5.5.7">
    <usedPackages class="java.util.ArrayList">
       <package packageName="@mchp-mcc/avr-8bit" version="4.3.0" contentType="MELODY">
          <modules class="java.util.ArrayList"/>
@@ -136,118 +136,118 @@
       </entry>
    </usedClasses>
    <usedLibraries class="java.util.ArrayList">
-      <ILibraryFile class="com.microchip.mcc.core.library.BaseLibraryFile" libraryClass="com.microchip.mcc.melody.Library" version="2.2.5"/>
+      <ILibraryFile class="com.microchip.mcc.core.library.BaseLibraryFile" libraryClass="com.microchip.mcc.melody.Library" version="2.6.3"/>
    </usedLibraries>
    <tokenMap class="java.util.TreeMap">
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.CustomKey" moduleName="Application Builder" name="graph-location-data"/>
-         <value>{&quot;mccDevice&quot;:{&quot;loc&quot;:&quot;-95.5 -94.484765625&quot;,&quot;pos&quot;:&quot;-95.5 -94.484765625&quot;},&quot;systemGroup&quot;:{&quot;loc&quot;:&quot;183.5 110.5&quot;,&quot;pos&quot;:&quot;183.5 110.5&quot;},&quot;module7&quot;:{&quot;loc&quot;:&quot;395 15&quot;,&quot;pos&quot;:&quot;395 15&quot;},&quot;module17&quot;:{&quot;loc&quot;:&quot;395 265&quot;,&quot;pos&quot;:&quot;395 265&quot;},&quot;module10&quot;:{&quot;loc&quot;:&quot;225 30&quot;,&quot;pos&quot;:&quot;225 30&quot;},&quot;module69&quot;:{&quot;loc&quot;:&quot;675 15&quot;,&quot;pos&quot;:&quot;675 15&quot;},&quot;module47&quot;:{&quot;loc&quot;:&quot;590 90&quot;,&quot;pos&quot;:&quot;590 90&quot;},&quot;module13&quot;:{&quot;loc&quot;:&quot;300 -225&quot;,&quot;pos&quot;:&quot;300 -225&quot;},&quot;module80&quot;:{&quot;loc&quot;:&quot;555 -225&quot;,&quot;pos&quot;:&quot;555 -225&quot;}}</value>
+         <value>{&quot;mccDevice&quot;:{&quot;loc&quot;:&quot;-108 -106.984765625&quot;,&quot;pos&quot;:&quot;-110 -138.984765625&quot;},&quot;mccDevice/section/peripherals&quot;:{&quot;loc&quot;:&quot;-95.5 -94.484765625&quot;,&quot;pos&quot;:&quot;-95.5 -94.484765625&quot;},&quot;mccDevice/section/system&quot;:{&quot;loc&quot;:&quot;-95.5 -27.984765624999994&quot;,&quot;pos&quot;:&quot;-95.5 -27.984765624999994&quot;},&quot;systemGroup&quot;:{&quot;loc&quot;:&quot;96.10078937838409 33.5&quot;,&quot;pos&quot;:&quot;94.10078937838409 1.5&quot;},&quot;module5&quot;:{&quot;loc&quot;:&quot;108.60078937838409 46&quot;,&quot;pos&quot;:&quot;108.60078937838409 46&quot;},&quot;module1&quot;:{&quot;loc&quot;:&quot;108.60078937838409 80.5&quot;,&quot;pos&quot;:&quot;108.60078937838409 80.5&quot;},&quot;module4&quot;:{&quot;loc&quot;:&quot;108.60078937838409 120.98984375&quot;,&quot;pos&quot;:&quot;108.60078937838409 120.98984375&quot;},&quot;module0&quot;:{&quot;loc&quot;:&quot;108.60078937838409 161.4796875&quot;,&quot;pos&quot;:&quot;108.60078937838409 161.4796875&quot;},&quot;module3&quot;:{&quot;loc&quot;:&quot;108.60078937838409 195.9796875&quot;,&quot;pos&quot;:&quot;108.60078937838409 195.9796875&quot;},&quot;module2&quot;:{&quot;loc&quot;:&quot;108.60078937838409 264.99745687330795&quot;,&quot;pos&quot;:&quot;108.60078937838409 264.99745687330795&quot;},&quot;module7&quot;:{&quot;loc&quot;:&quot;395 15&quot;,&quot;pos&quot;:&quot;395 15&quot;},&quot;module17&quot;:{&quot;loc&quot;:&quot;395 265&quot;,&quot;pos&quot;:&quot;395 265&quot;},&quot;module10&quot;:{&quot;loc&quot;:&quot;484.5 47.5&quot;,&quot;pos&quot;:&quot;484.5 47.5&quot;},&quot;module69&quot;:{&quot;loc&quot;:&quot;675 15&quot;,&quot;pos&quot;:&quot;675 15&quot;},&quot;module47&quot;:{&quot;loc&quot;:&quot;590 90&quot;,&quot;pos&quot;:&quot;590 90&quot;},&quot;module13&quot;:{&quot;loc&quot;:&quot;300 -225&quot;,&quot;pos&quot;:&quot;300 -225&quot;},&quot;module80&quot;:{&quot;loc&quot;:&quot;555 -225&quot;,&quot;pos&quot;:&quot;555 -225&quot;}}</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.CustomKey" moduleName="Application Builder" name="state"/>
-         <value>{&quot;userAddedModules&quot;:[&quot;module5&quot;,&quot;module4&quot;,&quot;module69&quot;,&quot;module47&quot;,&quot;module17&quot;,&quot;module1&quot;,&quot;module0&quot;,&quot;module3&quot;,&quot;module2&quot;,&quot;module80&quot;],&quot;version&quot;:&quot;CURRENT&quot;,&quot;modules&quot;:{&quot;module5&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-clkctrl-v3&quot;,&quot;imports&quot;:{&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;scf_avr8_clkctrl_v3&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-clkctrl-v3&quot;,&quot;version&quot;:&quot;^1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;CLKCTRL&quot;,&quot;label&quot;:&quot;CLKCTRL&quot;}},&quot;interrupt_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;interrupt-standard&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module4&quot;,&quot;exportId&quot;:&quot;interrupt&quot;,&quot;label&quot;:&quot;module4 : interrupt&quot;}},&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;config_device&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;config-device&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;config_device&quot;,&quot;label&quot;:&quot;module1 : config_device&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}},&quot;config_request&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;config-request&quot;,&quot;version&quot;:&quot;^2&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;config_request&quot;,&quot;label&quot;:&quot;module1 : config_request&quot;}}},&quot;payload&quot;:{&quot;main&quot;:{&quot;hardware&quot;:{&quot;frqselOschfctrla&quot;:&quot;24 MHz system clock&quot;}}}},&quot;module4&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-interrupt-v1&quot;,&quot;imports&quot;:{&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;scf_avr8_interrupt_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-interrupt-v1&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;CPUINT&quot;,&quot;label&quot;:&quot;CPUINT&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}}},&quot;payload&quot;:{&quot;main&quot;:{&quot;interrupt&quot;:{&quot;iSreg&quot;:true},&quot;priority&quot;:{&quot;lvl0rrCtrla&quot;:true}}}},&quot;module7&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-twi-v1&quot;,&quot;imports&quot;:{&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;interrupt_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;interrupt-standard&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module4&quot;,&quot;exportId&quot;:&quot;interrupt&quot;,&quot;label&quot;:&quot;module4 : interrupt&quot;}},&quot;osc_clocks&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;osc-clocks&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module5&quot;,&quot;exportId&quot;:&quot;osc_clocks&quot;,&quot;label&quot;:&quot;module5 : osc_clocks&quot;}},&quot;scf_avr8_twi_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-twi-v1&quot;,&quot;version&quot;:&quot;^1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;TWI0&quot;,&quot;label&quot;:&quot;TWI0&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}}},&quot;payload&quot;:{&quot;main&quot;:{&quot;interrupt&quot;:{&quot;rienMctrla&quot;:true,&quot;wienMctrla&quot;:true,&quot;dienSctrla&quot;:false}}}},&quot;module17&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-rstctrl-v1&quot;,&quot;imports&quot;:{&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;scf_avr8_rstctrl_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-rstctrl-v1&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;RSTCTRL&quot;,&quot;label&quot;:&quot;RSTCTRL&quot;}},&quot;config_request&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;config-request&quot;,&quot;version&quot;:&quot;^2&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;config_request&quot;,&quot;label&quot;:&quot;module1 : config_request&quot;}}}},&quot;module1&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/avr8-configuration-bits-v1&quot;,&quot;imports&quot;:{&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;initializer_main&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-main&quot;,&quot;version&quot;:&quot;^0.3.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module0&quot;,&quot;exportId&quot;:&quot;initializer_main&quot;,&quot;label&quot;:&quot;module0 : initializer_main&quot;}},&quot;avr8_configuration_bits_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;avr8-configuration-bits-v1&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;Configuration Bits&quot;,&quot;label&quot;:&quot;Configuration Bits&quot;}}}},&quot;module0&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/main-manager&quot;,&quot;imports&quot;:{&quot;main&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;main-manager&quot;,&quot;version&quot;:&quot;^1.*&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;MAIN MANAGER&quot;,&quot;label&quot;:&quot;MAIN MANAGER&quot;}}}},&quot;module3&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/pin-content-processor&quot;,&quot;imports&quot;:{&quot;device-meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;}},&quot;pin-architecture&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-architecture&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module2&quot;,&quot;exportId&quot;:&quot;pin-architecture&quot;}}},&quot;payload&quot;:{&quot;saved&quot;:{&quot;rows&quot;:{&quot;module10&quot;:{&quot;GPIO$RTS1$output&quot;:{&quot;pins&quot;:{&quot;PA0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC7&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PD0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF6&quot;:{&quot;state&quot;:&quot;MUL&quot;}}},&quot;GPIO$CTS1$input&quot;:{&quot;pins&quot;:{&quot;PA0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC4&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PC5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF6&quot;:{&quot;state&quot;:&quot;MUL&quot;}}}},&quot;pcp&quot;:{&quot;GPIO$GPIO$input&quot;:{&quot;pins&quot;:{&quot;PC5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB2&quot;:{&quot;state&quot;:&quot;MUL&quot;}}},&quot;GPIO$GPIO$output&quot;:{&quot;pins&quot;:{&quot;PC5&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PA0&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PA1&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PA2&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PA3&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PB2&quot;:{&quot;state&quot;:&quot;L&quot;}}}}},&quot;userEditedData&quot;:{&quot;cname&quot;:{&quot;eview&quot;:{&quot;PA0&quot;:&quot;LED_CELL&quot;,&quot;PC5&quot;:&quot;CELL_RESETN&quot;,&quot;PA1&quot;:&quot;LED_CONN&quot;,&quot;PA2&quot;:&quot;LED_DATA&quot;,&quot;PA3&quot;:&quot;LED_ERROR&quot;,&quot;PB2&quot;:&quot;LED_USER&quot;}},&quot;high&quot;:{&quot;eview&quot;:{&quot;PA0&quot;:true,&quot;PA1&quot;:true,&quot;PA2&quot;:true,&quot;PA3&quot;:true,&quot;PB2&quot;:true,&quot;PC7&quot;:true}},&quot;wpu&quot;:{&quot;eview&quot;:{&quot;PC0&quot;:false}}}}}},&quot;module2&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/avr8-pin-manager&quot;,&quot;imports&quot;:{&quot;avr8-pin-manager&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;avr8-pin-manager&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;Pin Manager&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0.*&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;}}},&quot;payload&quot;:{&quot;adapterdata&quot;:{&quot;portmux&quot;:{&quot;data&quot;:{&quot;PORTMUX.TWIROUTEA&quot;:{&quot;TWI0&quot;:&quot;ALT2&quot;}}},&quot;cname&quot;:{&quot;eview&quot;:{&quot;dataMap&quot;:{&quot;PA0&quot;:{&quot;value&quot;:&quot;LED_CELL&quot;},&quot;PC5&quot;:{&quot;value&quot;:&quot;CELL_RESETN&quot;},&quot;PA1&quot;:{&quot;value&quot;:&quot;LED_CONN&quot;},&quot;PA2&quot;:{&quot;value&quot;:&quot;LED_DATA&quot;},&quot;PA3&quot;:{&quot;value&quot;:&quot;LED_ERROR&quot;},&quot;PB2&quot;:{&quot;value&quot;:&quot;LED_USER&quot;}}}},&quot;high&quot;:{&quot;eview&quot;:{&quot;dataMap&quot;:{&quot;PA0&quot;:{&quot;value&quot;:true},&quot;PA1&quot;:{&quot;value&quot;:true},&quot;PA2&quot;:{&quot;value&quot;:true},&quot;PA3&quot;:{&quot;value&quot;:true},&quot;PB2&quot;:{&quot;value&quot;:true},&quot;PC7&quot;:{&quot;value&quot;:true}}}},&quot;wpu&quot;:{&quot;eview&quot;:{&quot;dataMap&quot;:{&quot;PC0&quot;:{&quot;value&quot;:false}}}}}}},&quot;module10&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-usart-v1&quot;,&quot;imports&quot;:{&quot;osc_clock&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;osc-clocks&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module5&quot;,&quot;exportId&quot;:&quot;osc_clocks&quot;,&quot;label&quot;:&quot;module5 : osc_clocks&quot;}},&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;interrupt_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;interrupt-standard&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module4&quot;,&quot;exportId&quot;:&quot;interrupt&quot;,&quot;label&quot;:&quot;module4 : interrupt&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}},&quot;scf_avr8_usart_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-usart-v1&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;USART1&quot;,&quot;label&quot;:&quot;USART1&quot;}}},&quot;payload&quot;:{&quot;main&quot;:{&quot;software&quot;:{&quot;rxBufferSize&quot;:&quot;128&quot;,&quot;SWFlowControl&quot;:true,&quot;txBufferSize&quot;:&quot;64&quot;,&quot;ctsreadpin&quot;:{&quot;PC4&quot;:{&quot;cname&quot;:&quot;CTS1&quot;,&quot;ioc&quot;:&quot;BOTH_EDGES&quot;,&quot;intcallback&quot;:&quot;PC4_SetInterruptHandler&quot;}},&quot;rtsreadpin&quot;:{&quot;PC7&quot;:{&quot;cname&quot;:&quot;RTS1&quot;,&quot;ioc&quot;:&quot;INTDIS_BUFFEN&quot;,&quot;intcallback&quot;:&quot;PC7_SetInterruptHandler&quot;}}}}}},&quot;module69&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/crypto-authentication-library&quot;,&quot;imports&quot;:{&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}},&quot;project_properties&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;project-properties&quot;,&quot;version&quot;:&quot;^1.*&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;com.microchip.mcc.melody.adapter.ProjectConfigurationAdapter&quot;,&quot;exportId&quot;:&quot;project-properties&quot;,&quot;label&quot;:&quot;com.microchip.mcc.melody.adapter.ProjectConfigurationAdapter : project-properties&quot;}},&quot;i2c_host_basic&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;i2c-host-basic&quot;,&quot;version&quot;:&quot;^1.*&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module7&quot;,&quot;exportId&quot;:&quot;i2c_basic&quot;,&quot;label&quot;:&quot;TWI0&quot;}}},&quot;payload&quot;:{&quot;main&quot;:{&quot;deviceSettings&quot;:{&quot;deviceAddress&quot;:&quot;0xB0&quot;}}}},&quot;module47&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/uart-driver&quot;,&quot;imports&quot;:{&quot;uart_basic&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;uart-basic&quot;,&quot;version&quot;:&quot;\u003e\u003d4.1.0 \u003c6.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module10&quot;,&quot;exportId&quot;:&quot;uart_basic&quot;,&quot;label&quot;:&quot;USART1&quot;}}},&quot;payload&quot;:{&quot;main&quot;:{&quot;software&quot;:{&quot;baudrate&quot;:115200.0,&quot;customName&quot;:&quot;modem&quot;},&quot;interrupt&quot;:{&quot;interruptDriven&quot;:true}}}},&quot;module13&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-usart-v1&quot;,&quot;imports&quot;:{&quot;osc_clock&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;osc-clocks&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module5&quot;,&quot;exportId&quot;:&quot;osc_clocks&quot;,&quot;label&quot;:&quot;module5 : osc_clocks&quot;}},&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;interrupt_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;interrupt-standard&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module4&quot;,&quot;exportId&quot;:&quot;interrupt&quot;,&quot;label&quot;:&quot;module4 : interrupt&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}},&quot;scf_avr8_usart_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-usart-v1&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;USART3&quot;,&quot;label&quot;:&quot;USART3&quot;}}},&quot;payload&quot;:{&quot;main&quot;:{&quot;software&quot;:{&quot;rxBufferSize&quot;:&quot;64&quot;,&quot;txBufferSize&quot;:&quot;64&quot;}}}},&quot;module80&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/uart-driver&quot;,&quot;imports&quot;:{&quot;uart_basic&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;uart-basic&quot;,&quot;version&quot;:&quot;\u003e\u003d4.1.0 \u003c6.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module13&quot;,&quot;exportId&quot;:&quot;uart_basic&quot;,&quot;label&quot;:&quot;USART3&quot;}}},&quot;payload&quot;:{&quot;main&quot;:{&quot;software&quot;:{&quot;customName&quot;:&quot;cdc&quot;,&quot;baudrate&quot;:115200.0},&quot;interrupt&quot;:{&quot;interruptDriven&quot;:true}}}}},&quot;content&quot;:{&quot;@mchp-mcc/avr-8bit&quot;:&quot;4.3.0&quot;,&quot;@mchp-mcc/pin-content-processor&quot;:&quot;3.3.3&quot;,&quot;@mchp-mcc/crypto-authentication-library&quot;:&quot;5.1.0&quot;,&quot;@mchp-mcc/scf-avr8-rstctrl-v1&quot;:&quot;4.0.5&quot;,&quot;@mchp-mcc/avr8-pin-manager&quot;:&quot;4.2.4&quot;,&quot;@mchp-mcc/scf-avr8-twi-v1&quot;:&quot;8.1.1&quot;,&quot;@mchp-mcc/uart-driver&quot;:&quot;1.6.2&quot;,&quot;@mchp-mcc/scf-avr8-interrupt-v1&quot;:&quot;5.0.10&quot;,&quot;@mchp-mcc/scf-avr8-clkctrl-v3&quot;:&quot;2.0.5&quot;,&quot;@mchp-mcc/scf-avr8-usart-v1&quot;:&quot;10.0.3&quot;,&quot;@mchp-mcc/main-manager&quot;:&quot;3.1.1&quot;,&quot;@mchp-mcc/avr8-configuration-bits-v1&quot;:&quot;4.2.8&quot;}}</value>
+         <value>{&quot;userAddedModules&quot;:[&quot;module5&quot;,&quot;module4&quot;,&quot;module69&quot;,&quot;module47&quot;,&quot;module17&quot;,&quot;module1&quot;,&quot;module0&quot;,&quot;module3&quot;,&quot;module2&quot;,&quot;module80&quot;],&quot;version&quot;:&quot;CURRENT&quot;,&quot;modules&quot;:{&quot;module5&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-clkctrl-v3&quot;,&quot;imports&quot;:{&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;scf_avr8_clkctrl_v3&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-clkctrl-v3&quot;,&quot;version&quot;:&quot;^1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;CLKCTRL&quot;,&quot;label&quot;:&quot;CLKCTRL&quot;}},&quot;interrupt_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;interrupt-standard&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module4&quot;,&quot;exportId&quot;:&quot;interrupt&quot;,&quot;label&quot;:&quot;module4 : interrupt&quot;}},&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;config_device&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;config-device&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;config_device&quot;,&quot;label&quot;:&quot;module1 : config_device&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}},&quot;config_request&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;config-request&quot;,&quot;version&quot;:&quot;^2&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;config_request&quot;,&quot;label&quot;:&quot;module1 : config_request&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;main&quot;:{&quot;hardware&quot;:{&quot;frqselOschfctrla&quot;:&quot;24 MHz system clock&quot;}}}},&quot;module4&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-interrupt-v1&quot;,&quot;imports&quot;:{&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;scf_avr8_interrupt_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-interrupt-v1&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;CPUINT&quot;,&quot;label&quot;:&quot;CPUINT&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;main&quot;:{&quot;interrupt&quot;:{&quot;iSreg&quot;:true},&quot;priority&quot;:{&quot;lvl0rrCtrla&quot;:true}}}},&quot;module7&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-twi-v1&quot;,&quot;imports&quot;:{&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;interrupt_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;interrupt-standard&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module4&quot;,&quot;exportId&quot;:&quot;interrupt&quot;,&quot;label&quot;:&quot;module4 : interrupt&quot;}},&quot;osc_clocks&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;osc-clocks&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module5&quot;,&quot;exportId&quot;:&quot;osc_clocks&quot;,&quot;label&quot;:&quot;module5 : osc_clocks&quot;}},&quot;scf_avr8_twi_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-twi-v1&quot;,&quot;version&quot;:&quot;^1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;TWI0&quot;,&quot;label&quot;:&quot;TWI0&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;main&quot;:{&quot;interrupt&quot;:{&quot;rienMctrla&quot;:true,&quot;wienMctrla&quot;:true,&quot;dienSctrla&quot;:false}}}},&quot;module17&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-rstctrl-v1&quot;,&quot;imports&quot;:{&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;scf_avr8_rstctrl_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-rstctrl-v1&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;RSTCTRL&quot;,&quot;label&quot;:&quot;RSTCTRL&quot;}},&quot;config_request&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;config-request&quot;,&quot;version&quot;:&quot;^2&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;config_request&quot;,&quot;label&quot;:&quot;module1 : config_request&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]}},&quot;module1&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/avr8-configuration-bits-v1&quot;,&quot;imports&quot;:{&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;initializer_main&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-main&quot;,&quot;version&quot;:&quot;^0.3.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module0&quot;,&quot;exportId&quot;:&quot;initializer_main&quot;,&quot;label&quot;:&quot;module0 : initializer_main&quot;}},&quot;avr8_configuration_bits_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;avr8-configuration-bits-v1&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;Configuration Bits&quot;,&quot;label&quot;:&quot;Configuration Bits&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]}},&quot;module0&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/main-manager&quot;,&quot;imports&quot;:{&quot;main&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;main-manager&quot;,&quot;version&quot;:&quot;^1.*&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;MAIN MANAGER&quot;,&quot;label&quot;:&quot;MAIN MANAGER&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]}},&quot;module3&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/pin-content-processor&quot;,&quot;imports&quot;:{&quot;device-meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;}},&quot;pin-architecture&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-architecture&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module2&quot;,&quot;exportId&quot;:&quot;pin-architecture&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;saved&quot;:{&quot;rows&quot;:{&quot;module10&quot;:{&quot;GPIO$RTS1$output&quot;:{&quot;pins&quot;:{&quot;PA0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC7&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PD0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF6&quot;:{&quot;state&quot;:&quot;MUL&quot;}}},&quot;GPIO$CTS1$input&quot;:{&quot;pins&quot;:{&quot;PA0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC4&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PC5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PC7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD6&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PD7&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PE3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF4&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PF6&quot;:{&quot;state&quot;:&quot;MUL&quot;}}}},&quot;pcp&quot;:{&quot;GPIO$GPIO$input&quot;:{&quot;pins&quot;:{&quot;PC5&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA0&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA1&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PA3&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB2&quot;:{&quot;state&quot;:&quot;MUL&quot;},&quot;PB0&quot;:{&quot;state&quot;:&quot;UL&quot;}}},&quot;GPIO$GPIO$output&quot;:{&quot;pins&quot;:{&quot;PC5&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PA0&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PA1&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PA2&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PA3&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PB2&quot;:{&quot;state&quot;:&quot;L&quot;},&quot;PB0&quot;:{&quot;state&quot;:&quot;UL&quot;}}}}},&quot;userEditedData&quot;:{&quot;cname&quot;:{&quot;eview&quot;:{&quot;PA0&quot;:&quot;LED_CELL&quot;,&quot;PC5&quot;:&quot;CELL_RESETN&quot;,&quot;PA1&quot;:&quot;LED_CONN&quot;,&quot;PA2&quot;:&quot;LED_DATA&quot;,&quot;PA3&quot;:&quot;LED_ERROR&quot;,&quot;PB2&quot;:&quot;LED_USER&quot;}},&quot;high&quot;:{&quot;eview&quot;:{&quot;PA0&quot;:true,&quot;PA1&quot;:true,&quot;PA2&quot;:true,&quot;PA3&quot;:true,&quot;PB2&quot;:true,&quot;PC7&quot;:true}},&quot;wpu&quot;:{&quot;eview&quot;:{&quot;PC0&quot;:false,&quot;PC4&quot;:true}}}}}},&quot;module2&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/avr8-pin-manager&quot;,&quot;imports&quot;:{&quot;avr8-pin-manager&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;avr8-pin-manager&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;Pin Manager&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0.*&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;adapterdata&quot;:{&quot;portmux&quot;:{&quot;data&quot;:{&quot;PORTMUX.TWIROUTEA&quot;:{&quot;TWI0&quot;:&quot;ALT2&quot;}}},&quot;cname&quot;:{&quot;eview&quot;:{&quot;dataMap&quot;:{&quot;PA0&quot;:{&quot;value&quot;:&quot;LED_CELL&quot;},&quot;PC5&quot;:{&quot;value&quot;:&quot;CELL_RESETN&quot;},&quot;PA1&quot;:{&quot;value&quot;:&quot;LED_CONN&quot;},&quot;PA2&quot;:{&quot;value&quot;:&quot;LED_DATA&quot;},&quot;PA3&quot;:{&quot;value&quot;:&quot;LED_ERROR&quot;},&quot;PB2&quot;:{&quot;value&quot;:&quot;LED_USER&quot;}}}},&quot;high&quot;:{&quot;eview&quot;:{&quot;dataMap&quot;:{&quot;PA0&quot;:{&quot;value&quot;:true},&quot;PA1&quot;:{&quot;value&quot;:true},&quot;PA2&quot;:{&quot;value&quot;:true},&quot;PA3&quot;:{&quot;value&quot;:true},&quot;PB2&quot;:{&quot;value&quot;:true},&quot;PC7&quot;:{&quot;value&quot;:true}}}},&quot;wpu&quot;:{&quot;eview&quot;:{&quot;dataMap&quot;:{&quot;PC0&quot;:{&quot;value&quot;:false},&quot;PC4&quot;:{&quot;value&quot;:true}}}}}}},&quot;module10&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-usart-v1&quot;,&quot;imports&quot;:{&quot;osc_clock&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;osc-clocks&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module5&quot;,&quot;exportId&quot;:&quot;osc_clocks&quot;,&quot;label&quot;:&quot;module5 : osc_clocks&quot;}},&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;interrupt_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;interrupt-standard&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module4&quot;,&quot;exportId&quot;:&quot;interrupt&quot;,&quot;label&quot;:&quot;module4 : interrupt&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}},&quot;scf_avr8_usart_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-usart-v1&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;USART1&quot;,&quot;label&quot;:&quot;USART1&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;main&quot;:{&quot;software&quot;:{&quot;rxBufferSize&quot;:&quot;128&quot;,&quot;SWFlowControl&quot;:true,&quot;txBufferSize&quot;:&quot;64&quot;,&quot;ctsreadpin&quot;:{&quot;PC4&quot;:{&quot;cname&quot;:&quot;CTS1&quot;,&quot;ioc&quot;:&quot;BOTH_EDGES&quot;,&quot;intcallback&quot;:&quot;PC4_SetInterruptHandler&quot;}},&quot;rtsreadpin&quot;:{&quot;PC7&quot;:{&quot;cname&quot;:&quot;RTS1&quot;,&quot;ioc&quot;:&quot;INTDIS_BUFFEN&quot;,&quot;intcallback&quot;:&quot;PC7_SetInterruptHandler&quot;}}}}}},&quot;module69&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/crypto-authentication-library&quot;,&quot;imports&quot;:{&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}},&quot;project_properties&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;project-properties&quot;,&quot;version&quot;:&quot;^1.*&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;com.microchip.mcc.melody.adapter.ProjectConfigurationAdapter&quot;,&quot;exportId&quot;:&quot;project-properties&quot;,&quot;label&quot;:&quot;com.microchip.mcc.melody.adapter.ProjectConfigurationAdapter : project-properties&quot;}},&quot;i2c_host_basic&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;i2c-host-basic&quot;,&quot;version&quot;:&quot;^1.*&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module7&quot;,&quot;exportId&quot;:&quot;i2c_basic&quot;,&quot;label&quot;:&quot;TWI0&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;main&quot;:{&quot;deviceSettings&quot;:{&quot;deviceAddress&quot;:&quot;0xB0&quot;}}}},&quot;module47&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/uart-driver&quot;,&quot;imports&quot;:{&quot;uart_basic&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;uart-basic&quot;,&quot;version&quot;:&quot;\u003e\u003d4.1.0 \u003c6.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module10&quot;,&quot;exportId&quot;:&quot;uart_basic&quot;,&quot;label&quot;:&quot;USART1&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;main&quot;:{&quot;software&quot;:{&quot;baudrate&quot;:115200.0,&quot;customName&quot;:&quot;modem&quot;},&quot;interrupt&quot;:{&quot;interruptDriven&quot;:true}}}},&quot;module13&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/scf-avr8-usart-v1&quot;,&quot;imports&quot;:{&quot;osc_clock&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;osc-clocks&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module5&quot;,&quot;exportId&quot;:&quot;osc_clocks&quot;,&quot;label&quot;:&quot;module5 : osc_clocks&quot;}},&quot;pin_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;pin-standard&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module3&quot;,&quot;exportId&quot;:&quot;pin-standard&quot;,&quot;label&quot;:&quot;module3 : pin-standard&quot;}},&quot;device_meta&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;device-meta&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;meta&quot;,&quot;label&quot;:&quot;mccDevice : meta&quot;}},&quot;interrupt_standard&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;interrupt-standard&quot;,&quot;version&quot;:&quot;^1&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module4&quot;,&quot;exportId&quot;:&quot;interrupt&quot;,&quot;label&quot;:&quot;module4 : interrupt&quot;}},&quot;initializer_system&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;initializer-system&quot;,&quot;version&quot;:&quot;^0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module1&quot;,&quot;exportId&quot;:&quot;initializer_system&quot;,&quot;label&quot;:&quot;module1 : initializer_system&quot;}},&quot;scf_avr8_usart_v1&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;scf-avr8-usart-v1&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;mccDevice&quot;,&quot;exportId&quot;:&quot;USART3&quot;,&quot;label&quot;:&quot;USART3&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;main&quot;:{&quot;software&quot;:{&quot;rxBufferSize&quot;:&quot;64&quot;,&quot;txBufferSize&quot;:&quot;64&quot;}}}},&quot;module80&quot;:{&quot;scriptId&quot;:&quot;@mchp-mcc/uart-driver&quot;,&quot;imports&quot;:{&quot;uart_basic&quot;:{&quot;interfaceId&quot;:{&quot;name&quot;:&quot;uart-basic&quot;,&quot;version&quot;:&quot;\u003e\u003d4.1.0 \u003c6.0.0&quot;},&quot;handle&quot;:{&quot;providerId&quot;:&quot;module13&quot;,&quot;exportId&quot;:&quot;uart_basic&quot;,&quot;label&quot;:&quot;USART3&quot;}}},&quot;framewSpecificState&quot;:{&quot;userEditedImports&quot;:[]},&quot;payload&quot;:{&quot;main&quot;:{&quot;software&quot;:{&quot;customName&quot;:&quot;cdc&quot;,&quot;baudrate&quot;:115200.0},&quot;interrupt&quot;:{&quot;interruptDriven&quot;:true}}}}},&quot;content&quot;:{&quot;@mchp-mcc/avr-8bit&quot;:&quot;4.3.0&quot;,&quot;@mchp-mcc/pin-content-processor&quot;:&quot;3.3.3&quot;,&quot;@mchp-mcc/crypto-authentication-library&quot;:&quot;5.1.0&quot;,&quot;@mchp-mcc/scf-avr8-rstctrl-v1&quot;:&quot;4.0.5&quot;,&quot;@mchp-mcc/avr8-pin-manager&quot;:&quot;4.2.4&quot;,&quot;@mchp-mcc/scf-avr8-twi-v1&quot;:&quot;8.1.1&quot;,&quot;@mchp-mcc/uart-driver&quot;:&quot;1.6.2&quot;,&quot;@mchp-mcc/scf-avr8-interrupt-v1&quot;:&quot;5.0.10&quot;,&quot;@mchp-mcc/scf-avr8-clkctrl-v3&quot;:&quot;2.0.5&quot;,&quot;@mchp-mcc/scf-avr8-usart-v1&quot;:&quot;10.0.3&quot;,&quot;@mchp-mcc/main-manager&quot;:&quot;3.1.1&quot;,&quot;@mchp-mcc/avr8-configuration-bits-v1&quot;:&quot;4.2.8&quot;}}</value>
       </entry>
    </tokenMap>
    <generatedFileHashHistoryMap class="java.util.HashMap">
       <entry>
          <file>mcc_generated_files\i2c_host\i2c_host_types.h</file>
-         <hash>ef0af29822e6499954b8236e7d3df230f5b3e2f5dc86a5e022858d17f6cadf30</hash>
+         <hash>40fbc4775124cd2d165d0708859a3dadd6dba826b0bada9fe391f72f2f3c9f12</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_lock.c</file>
-         <hash>7b327fca68e374c601ca83e60f8b79315d45206e1ba14605fcbc36e6ae2cd65f</hash>
+         <hash>dc58f2fee31ef6368cbe4594c185f7e08607442b737679d0b63b59d343923944</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\interrupt.h</file>
-         <hash>82e11bfcc3580d592863eb4be64ac91c77e6c2e629fee34636eec2b78bea364e</hash>
+         <hash>41cec651b8e5a52995f09ff4ee730b993328b7f1c06174073bab9c9fd5aea0e7</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_selftest.c</file>
-         <hash>41d61619706f42a671ef7b08556ad987a3c9b4142359b6f79078935c9383a892</hash>
+         <hash>0c80934aea0bbcad2cf950e7ff9dc6f4a5ecee4b583222c731a5c8486ad264e8</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\port.h</file>
-         <hash>da00ddb9d69f1909070150f7216e69cb2f9ebd70cf219b8a2573b77f6d9c2570</hash>
+         <hash>3683f158a55d8eef2efa3d884de6deac57477b7705af0b8241682cb869f2fe90</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\utils\interrupt_avr8.h</file>
-         <hash>bfde5feab204bd919693e47acc832088518dad7e81f69c7d10ac6bb88f4436f2</hash>
+         <hash>3ebc3eede8f7ad2d3c487822983b7ec1b57d914c45545caebcbd53aa7fc51143</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_bool.h</file>
-         <hash>65df72d26241f72c4ce5ec778cf325c23fee9621111f398dff15f28131930eef</hash>
+         <hash>08f5d1601844fa2476d8fb9f52e3aff0121124f58044fb2b8d3a347c4426b2c0</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\pins.h</file>
-         <hash>ef0746409dc5bb116c072f5036e6630d5c775b17ae2f7047a9fea6c3f90397de</hash>
+         <hash>637f5336eef80c755ca0072dbc65ac778eff734aff96d3e41f37d44c7b3cd08c</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_counter.c</file>
-         <hash>d45577f3e4569e9abefca4cebb23db92e5c72850f1c22aac3df6f5a5725fe365</hash>
+         <hash>32844e65ad575f0cc8b1cea07f06b57991e19bf08505eb78139f977c0ba9c45f</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\hal\atca_i2c_hal.c</file>
-         <hash>97ce2e0fe710113db95027c879ea7fbd8b9e472a73396e740356b0478498b9c0</hash>
+         <hash>dd0991f29561b7beae4088443e404724ce41d6006ead762ed1c6b503e1b57654</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_nonce.c</file>
-         <hash>d73c9c2df01bce67051846ca16f55c2fe7362e94561c55178ad1651df50f0d74</hash>
+         <hash>e283c3ce377738e18301cc44b5d48c4a15d046ebb0e2cddaada6ed67d2e619a4</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\hal\atca_start_iface.h</file>
-         <hash>a4d3739b7689019106ba8a9d479832da72af89b62b9d6ede4c1f4a24c97a7618</hash>
+         <hash>e23e16223cc1676cec9f604987cd71a1c88f08ed233f0a6bf82afb59e6506ecb</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_def.h</file>
-         <hash>f1e621c33409170bea4eb71309f301df4e548d7c8227e9b34751b022c67dcadb</hash>
+         <hash>3bcd4e0b6e92f96bd6fa42dd17ff9413a32d95cfacf05aace595134b36b83254</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_mac.c</file>
-         <hash>835c355093209b76d66bb27d55bd85f5df179eaf8c933ba09835a62cb8fcedcf</hash>
+         <hash>af6c24b7852d9d4c205ccce5adde3b00f4c1ed6ddce9324a2db5e4e491930ebe</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\hal\atca_hal.c</file>
-         <hash>c5d52b1e1b79299bf3a0d9f7a3752964ed6176bac6464be5d334b1a78a565079</hash>
+         <hash>8bce05eee873f2fd8b2a312ac8910e4f4141eb9bdf5edf54dc1e17f6f593b952</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_version.h</file>
-         <hash>2a8d5f487a9fa5142ad5937f05d59f59004ceff8da8b6e1fff2bad004b86539e</hash>
+         <hash>389b6cc0af1b6e9f3542d1ac1e6830a928e2cb19aab9d4971876be3a1202717e</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_write.c</file>
-         <hash>c60a541861f69d52806a563b7eae563ebec637ff41a488b62bf004efa5822381</hash>
+         <hash>48297dd6277d0ce151dfddc1ba6071a9d1a651da14406aa0a6b7ed1bde7ef731</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_aes_cbc.c</file>
-         <hash>f3f62f577a623f874ae33a1b2222f450477b6c2576698edf0e66c4849dfa2ad9</hash>
+         <hash>016be511e7d3a92aeea59c1c4fe60bde653989f83ae15fec5ccd239e8eb0d3b4</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\cryptoauthlib.h</file>
-         <hash>d6557915383e51bf07c48a704fdcd003c3118780a9ab056f38c6174b19ca99ea</hash>
+         <hash>16ee8c6d787df977bb6577100006e742161d9ceadabad7c6af30338f2a516b36</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\hashes\sha1_routines.h</file>
-         <hash>d36312d91091e217d183c3c59307268cde4f75e0ca0f8f779f657006efc42564</hash>
+         <hash>9846a99c9e4e82ab616057b9f49aa5dbcdc6b1c81fa4af95fba87cd2c023a64e</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_def.c</file>
-         <hash>06a757161601df9683331a22a626cc0ed0178dff99d4d80796e4d64893fd089a</hash>
+         <hash>df4b8103bffc68f252400af85b510b326a9fd903b954da89a7f677255c5be07a</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_aes_ctr.c</file>
+         <hash>07bcacaee1f48f66e3f46357327f61c8317d120f4c51051f0ea9b50eaaf3f33e</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\hashes\sha1_routines.c</file>
+         <hash>4551843a621eb1c3395d8bc1ec27d89e001cbfb271d36e0157c4486e087cff06</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\hal\atca_hal.h</file>
          <hash>8d8d5f8596b7735141adc1d5597f87f75c7c983d8f7f15b256d0af43a360a245</hash>
       </entry>
       <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_aes_ctr.c</file>
-         <hash>d6751eae92384caf38afb65b9c978fe908dcd3ca5aff2f008345680a1c054c45</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\hashes\sha1_routines.c</file>
-         <hash>bfea0378918faae0665b109bf8e816a933ad26e87422894448e2b80c44a3e5fb</hash>
-      </entry>
-      <entry>
          <file>mcc_generated_files\system\system.h</file>
-         <hash>dad2094b726dba173005f72925479ab7aa19c5c454c15a3cdd0caa552f001bb7</hash>
+         <hash>1eb6341584eb2afd35d036f6d8db76ed26827b82c46b306e99c6d4f103a9d03a</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_compiler.h</file>
@@ -255,327 +255,327 @@
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_der.c</file>
-         <hash>b32ffb907ed87017d73e9234f95599b3bbe003ad38d5e9f744a4fa0234d5f575</hash>
+         <hash>e3e506ca5a7024f8dcb318804e46c832bdd5282881b7e68c715619f81e8fdbd1</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\i2c_host\twi0.h</file>
-         <hash>b7b3afa46db86df3e03a6e86b3fb304cf56669602a33ad66302e80200f88ea91</hash>
+         <hash>ed0fd3a2d30d968edc482690a597ca5432f6a2ab148f8950ae5d3b475bf6cca3</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_updateextra.c</file>
-         <hash>922eb3cf6a899071e7b476dc249f739a1675aa899157762388b87d5d713ae651</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_sha.c</file>
-         <hash>77762e644ac1bf91d1e93b05666cbc4b7f68cbe3f986b46c038e9044b994fbef</hash>
+         <hash>4442491c7b786f3a33649a629782f14860cbf232e6f6eab07dc2b434d834b0f1</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_der.h</file>
-         <hash>b7d1f27932e3c0dcea973fb37f954666e15dfafc0631c9514e99ca0f1ebacdb3</hash>
+         <hash>eb7df1cbc6676683c7cf9ba23525da61cf6f9090241ccbe864cbaf1c89776d8f</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_sha.c</file>
+         <hash>b8b41ca91dd3fefd48ede14fc0c45ca3208a5bf9c6c0cfb1847aadef698616d7</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\reset\rstctrl.h</file>
-         <hash>a17cfea8449523f2bdeabf4dab702d5bf0e5db075a9049944261d3db05b54267</hash>
+         <hash>8f888b2511eb6b4a2b92c484d7ec57de5b622a9c18f5417fe5efb45d2666748b</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_aes_gcm.h</file>
-         <hash>e7b280122af41a0cc175593424e6e1a70d0523859810a8666d6a2d2d7f9470bf</hash>
+         <hash>131cca733bc04f4a952d4d830194378ec2c78576dde77dfa0fdf0b17da01912c</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_derivekey.c</file>
-         <hash>0c6a56349223e5dd68848675b6e640ca03152ce01195d7c0bb210e23910a870b</hash>
+         <hash>34569e1a8d04044f91e340f521cdd1ddf73b0a1bf7174e20c313a543f950f2cf</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\hal\atca_i2c_hal.h</file>
-         <hash>8438cf5e45ecb6a9e510aace50dd55b74b1157f21500801a19ec2682762e391d</hash>
+         <hash>af727a70587792bbc86822f5642a3ced07c3934d2a178edddce7fd1dce04427f</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_read.c</file>
-         <hash>39a77ae4df88da17db876ea93ddf10ce00d44a0e417581fbf3f1f26c4541427f</hash>
+         <hash>8f1d1558918530ed9aff27232ef82db6ed4100492e0e7b4bbbd92d5c10908d3e</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_aes_gcm.c</file>
-         <hash>31b5c42b3f9b9398faa7044cd41754c5d262bf8d5d3c8b4d1c76a92c2ac9f3eb</hash>
+         <hash>3baa9298fbfb808eda9d499814dcc02e0f9c138544f2d3d22162b65603bb9ba2</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_host_sw.c</file>
-         <hash>5f617cba35976abfef86c46c1269e323d91c734b862f47e09a59727564baa1c2</hash>
+         <hash>c3c26f96692602046d87de7d1c9c4b864087358639c95005ab4672f16d33e674</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_device.c</file>
-         <hash>64c6ef134355a4164b8d93a5f3cbe620219332d32dc9767125afd76fb23df952</hash>
+         <hash>a178f829746d391ccbbd4ce78d6ca6ab6a12733466fad40af815c7f98dcc8bd8</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\utils\compiler.h</file>
-         <hash>331147d70d1cf9914b76c7e3830ce86b4e34610906f71850a107e0787796b547</hash>
+         <hash>f5cb2553e7ed19ae3576829de41c4d302c00fbff137014a3b9387a7dc286d520</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_device.h</file>
-         <hash>1ac285bb26d689fc40da989d2877f38390c8e52374c13e8fbacaca1c37fa18ce</hash>
+         <hash>3661c4141694276c01bc436bf2d27db01c44407ab8cc4d96227a92968152800f</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw_rand.h</file>
-         <hash>8e59f43d2683cc4e2e8ce7e917aee556eef56b5c2b1222f5c9cdde81ce8918cd</hash>
+         <hash>4f8f6cafc73866f128fb602d603e15ee0177e9b6d6b6cdccec386a372df87d57</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw_sha2.c</file>
-         <hash>51e1984b1220b7ac858f43b26602afe770f5fe293ff39d98782854843e740f7a</hash>
+         <hash>2c0d9ec4b3ddfb0ddbac175ff9f55c541400ba0f45607c94d384d8c21015426a</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\utils\assembler\iar.h</file>
-         <hash>4f9f9d2affcf782428c25ef425254ce59b15d4da78998467899e7c5f0dd81a67</hash>
+         <hash>be3f59a076f3ecd9c91b7d8c2c9396245b45155c05511ad8261a2f9a47274d04</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_helpers.h</file>
-         <hash>d39dd43af80d5f6fa6dd42dcf40c8d49af0b7f4f75956f9849a2603480a86195</hash>
+         <hash>36c4c51af9debb1e4cee8fa0a7a3c02a01cdfa01850f73f8fd537f2f06dd4025</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\uart\uart_drv_interface.h</file>
-         <hash>45d79460413463d0025ce0d00ada9dfa90c9fc02b9118079c51d5e55721bf4c1</hash>
+         <hash>cfa9252548757a754caa68b920b798f2354a29a52b50779680c2c7e8b58d17bd</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\README.md</file>
-         <hash>9974e5180e72c60c3fa7ef914b5712bf59484eba0fcf40df724792a4c8955c64</hash>
+         <hash>69233fe08151336d629aaea44648c1a45900789b1e83c109a53e275c528fe6ed</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\uart\src\usart1.c</file>
-         <hash>fb577a72aefd9310d38f03f7bddc106385aaf8bf4b09d3f52cce5262bfd7f91c</hash>
+         <hash>1afc99d918b9d51d188ba6208f77a30e75ab2c33f135c13431306a83c05ef7c7</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw_sha2.h</file>
-         <hash>4368ff84676df08bb9a0658fa7e2b5108b8516b44ff6aa7a1486a1ae2c7d0705</hash>
+         <hash>7058e65cdd0796a2c5f6abf231cd169916a45d49ccd389c5122cc02c63aa5269</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_secureboot.c</file>
-         <hash>769e08799b9e51a91028d6646299d6a2c9468a5130ad23345a0c8fcf4796e243</hash>
+         <hash>e0c79b6aecd9ed3f8776567a5bca62143337d95809462ecc3a55cc147f08f55a</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_pem.h</file>
-         <hash>5bc26e6031a8021bd0fc865c934c14eaf28bd3546fa676d2822c41c4f4a852ad</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_pem.c</file>
-         <hash>15fa7f5f84b12561d7090c412153b2aead3531a7d51f1f66e36af2a3ec6bb1d7</hash>
+         <hash>bad47eefa19487a1f6c03a2a9910d2979ea27ccfef9a617569e0acaaa627c0e4</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw_rand.c</file>
-         <hash>140c68acc6d51faee815488426256220be6ce90081a6ad9d0b1b9045f31ae886</hash>
+         <hash>0f5d8e2042ed5970205ec77c00711c13ffbf387fcd0338567bf546a9531df081</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_host_sw.h</file>
-         <hash>d72cf4ac53acdb4663139e4756d97bf290ca8b99b827c6239422040303bc43ee</hash>
+         <hash>17ef353f29a43c8dccd07c2261ab4f948e722470b370e9325664273a11719734</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_pem.c</file>
+         <hash>63b7869aa5d621831129e5de3a3083776b7ef657b3b2c0d33801102130e7f516</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\hal\atca_start_config.h</file>
-         <hash>b29a69137b3e32126b54d5e7077e9f9e1ccbd24fdacacf7197257c974ebe0435</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_status.h</file>
-         <hash>6159ea5d2572206fec97d027d4702fe96a27f4b78b760759591be7c3fcbbd10c</hash>
+         <hash>e3421a3960431265ab30114041fe1fe8aeec4985e5d887d05d4b9176211c1694</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_devtypes.h</file>
-         <hash>fc0d235a444316aaa0f874020c2b809c85cd36650b4fc09e92fb84eff43f9323</hash>
+         <hash>1fe4f956dd5b2161ea9c7dc8f37f2e70f1b1d62be090341e893dc06309242cca</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_status.h</file>
+         <hash>c116938e5d9af6dd51cd8bbafc5fdb1b43eac858004fa5cc727e5a5cab69cf63</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\i2c_host\i2c_host_interface.h</file>
-         <hash>b8992fdfaff791a3aae503020b3d7549e12457d1b676820abf366d5d319c4d93</hash>
+         <hash>ddc06ee1fa386054277729298faca18116be3f94d0e5b1fe02db1a4b1fd02623</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\i2c_host\src\twi0.c</file>
-         <hash>1021d9a7372df9b6570f1fe3bfad1ef686b140591eb3060fa8800b69fd6c5caf</hash>
+         <hash>3ba7d6d48fac2cd02f93e7bb9bdb458bd7bc37fa89b67a26276b9083b1aadc41</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw.h</file>
-         <hash>e2ae4b9e1e6245d4168fe830a86dc22c73c63d53a32a1330b98c0307f373787b</hash>
+         <hash>47bd9af7e8aa404ec48209b18cd35661be37de9745926eb7f206867c4e47932f</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\uart\usart3.h</file>
-         <hash>f6e11025d5d96224bb1ad675fdbce2e604d2a5c979e584136f817805fcad63b0</hash>
+         <hash>0444e5aa95c23d97eaf5a6038776e2441dc0ccec0f6e246d8455b608538c0615</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\src\interrupt.c</file>
-         <hash>d1454e6d485f2fb7868ba13d7dc9512035748f071d413237f6a366ab4c022d01</hash>
+         <hash>2456287a1a1cbc0f98cfe16cd9929a2aa819ef50aabe0f5154ab61deab011e92</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_host_hw.c</file>
-         <hash>2c17bb15bd7d42ff5881e79b2f4ff20fee5aba3532a93d07ff281b64e88a0998</hash>
+         <hash>56fe5785d37cea2f9f633f5d4ed71ce4988450c02d5ccd0f755234bfb65a05db</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_ecdh.c</file>
-         <hash>889d60c76747e86d207f12dc9c85f3edaa3f7887699e036cebd70e6949f5c156</hash>
+         <hash>40d57ce55c99c35218599b66f2dd3854d4fe642b5f6433a2732b23d707c0cc08</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\host\atca_host.c</file>
-         <hash>932d5318a6fe951526feb8db1136229322c36d2cdfcd607ab02bd8a2204054ed</hash>
+         <hash>5dde097a1146771be18842b78999c4dc9c66a35f64997a883bcbb1cddfc45e90</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\i2c_host\i2c_host_event_types.h</file>
-         <hash>dbeaa2009b589cd3f30c15e4fb139c185c7735758c13227bcb66003486d7e2b3</hash>
+         <hash>601c7bd4c2399ee9290e5ba96ab6c18610c6f44bcba3ea4d02acd7e609e71198</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\host\atca_host.h</file>
-         <hash>62a596752d0856db250c384f23926872b2408b281a2e8640f2a82bfc01df95cb</hash>
+         <hash>8b03a95d1fa646f990b749c65e72518cfcdbb5dca9b51a8a9436b5658da3f7e2</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_genkey.c</file>
-         <hash>4d3be4b900da31604add852e664f6813be6cc87ecc1e91fb01b31e3e8535b592</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_gendig.c</file>
-         <hash>f856d5b9b55dacb9474704a8898cb2740a90519e3ce79d7770103322cc9f2da8</hash>
+         <hash>152ada1506a27353f45ef3dd820f75a4773dbaef5148330334e48e8e8e3f8bc3</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_host_hw.h</file>
-         <hash>ac8bde660bd0d1a4b3eb8842da7204441303dd1f777788549c7561b5f272fb35</hash>
+         <hash>8f332862f15efdd2dde6747417d94bd4fa9332b584c181f22f240170d637a55f</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_gendig.c</file>
+         <hash>4528b8a1449179da09911e3df84dea732d345e9cc65168dd0e7ebd159b0887a0</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_aes_cmac.c</file>
-         <hash>05c194a1359b599ab09762e756e91833a496f6d404eca45d1d4a54655d1b91ef</hash>
+         <hash>33ef8929e650b27217e4285b3d19cf61c6fb531730ced0d60f60f86e63560b39</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_execution.h</file>
-         <hash>e7c2fe6c053d42713f45f40073453a639111777ff56190298c2a0f6be64023c8</hash>
+         <hash>a43a41b47b017467019ec51ad00876265e4906c75ec3d83a772b73f9fbe96d56</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_execution.c</file>
-         <hash>d446b7eaed8375ff5a2aa24cda97611b06bd62cb899705d246a89950190c3bed</hash>
+         <hash>60f599eee7904cc9532c48fa64369631a0dd91bb4b82e3945acdeaafed0c6b42</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw_ecdsa.h</file>
-         <hash>8404fa0311dfaf14b18e556039a10a37e89b6e7d7380739df3cd2a0fe2db00cf</hash>
+         <hash>eaf1570fef1e7bd4f0154f057d4f62c6b821507fc9c557b1f8cb3dfbdb0f38a5</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw_sha1.c</file>
-         <hash>f87394983694651c2e79678b07e899c8589b211a817bc1f436cf82bf601bd5b1</hash>
+         <hash>375181b4788c1a49c575dce1d1099a367d1ad7f8eb79c5bb43e614e3c584f236</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw_ecdsa.c</file>
-         <hash>7993b678cd2818964d29f81816b6557222370a3cbd0314fb2fc16e0ebfb538fc</hash>
+         <hash>30a71093ecc4d2e31e4343740727dddaa02adbcd5ac58dd2416ca9aaf31dfa8c</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\cryptoauthlib_config.h</file>
-         <hash>7cc16bba46af280d4ff9c752439ee6bff0862caeef774081721876b2960a9ea8</hash>
+         <hash>2e3b451a7dca68ffed1105f5964158842ce905d4553598a140e32a9104851d96</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_sign.c</file>
-         <hash>54b30cf49763beabf7c4f4ffdec684b602ef66e06e53cd81f07ad23a5eb8c705</hash>
+         <hash>1e0f9220ab9e16e766e3d60688910da2f927620fc2dfd53f66d87f585948436a</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\uart\uart_types.h</file>
-         <hash>b12596b514a3ada9b017357d3c42bf1f71d00d3e62d7651332aadf3dd65e55a2</hash>
+         <hash>23a627c00b940d21a80ecfb6afd1746ba0465d5eb6c77d58c1cdc408f2e0d018</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\atca_crypto_sw_sha1.h</file>
-         <hash>37f714155c12d5e39bcf5ce3ef7f330722ad38093c2363879178e3a05d3fe00c</hash>
+         <hash>5e205e5b724d8d58992058d51e77f3d675d9676a8e5f770e63f67afdfebcfdb2</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\src\clock.c</file>
-         <hash>0e9b1145fd53a9b26bfe4e3b92ebb33332e89eb0f9aacc4816646e2f3adae53f</hash>
+         <hash>be1a14f574b30099ea611f129b4a4e14a7c7ae774304af77a83ede5a969b072c</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_kdf.c</file>
-         <hash>b6b93b77fb00adb977ac4a72b305fe685f1ba70e60c0d6a327854adebd1baa77</hash>
+         <hash>3c0a9537600af5f1161485ec2fd4e35ec08f137fd8a2e61e06eaf05333711f9c</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\clock.h</file>
-         <hash>bec460323504f99471b6204547f9769bbb49411a5faa3b1ebb6b6360422625a8</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_verify.c</file>
-         <hash>fc0d29bda675cdf8260e4cb138597a09c6794dfa9b6e6cffc87e23a0203c8a3e</hash>
+         <hash>182a677b1b0c6038d8edd3883883c8791409a2372307ed886048312f480c5d6a</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_iface.h</file>
-         <hash>cfd3c020a99db3e926d304e33145bcbf82131d78858009468ad4d41dbc98007d</hash>
+         <hash>625054ce95d332ef31fd89900e2198ff944fe64c49305907b0da6b79ae42da56</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_verify.c</file>
+         <hash>d497c8bd9f295fb3c6d6de683125b03d0e3bbbad78549a741668ad68d571ea58</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\utils\assembler\gas.h</file>
-         <hash>0b060c897bb4aaa534adb50aaae279e6e33d91c2ba90846fb5ed615d25cba275</hash>
+         <hash>cc335c14083bfa663f36357eeedd58ac047b960a71abc8f67e11d831056422c5</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_helpers.c</file>
-         <hash>4390981d28c405593947a49f7319b801c631a0bc3ffb1cfcff945bbe03da02de</hash>
+         <hash>c8cf43169dd17ea5e8fe0bd5ba9fda8222644785172107e4306bb96f9e7ce729</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_hmac.c</file>
-         <hash>8708b5356364fc7335302a6885686019ab308d3f185f9e5de0d8d9add9716f0c</hash>
+         <hash>d26e39f782c1db59b528519013ca5d49d5c7db5d6ee94ef798efa5d14d456110</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_iface.c</file>
-         <hash>772d2a6220d7f181f7b1e192c4cf0df3b2dc09c7364483bcf73a1e3b05ed1842</hash>
+         <hash>0438609b4e8dc8da6d99b6f093c55c1d4622eb704bb77f53196b85a52a76e9a8</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\src\protected_io.S</file>
-         <hash>e71791807bb5f87f45c5af393675eaec6337c8d6a3fa96c03eaafaf125c177a6</hash>
+         <hash>03f66d2c0ed02025bf1b727bf6250598a3e4c336a1f4364d6d241ac7f27a6f00</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\src\config_bits.c</file>
-         <hash>fa14b18a2d68620cdb34add22e22960d8f0b69ed96379379f6fd6f195202ecc7</hash>
+         <hash>71bec72de8451df554a2af94aa1cbe521d59e8af41fd3e877538f6de31d939f9</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\src\system.c</file>
-         <hash>1ed3a62c284cbc2606d7499c87346bcdc95e9c0a51eb399d9f2599b5a534636d</hash>
+         <hash>1d8da901f8290110ae36e13d767b9ca73338c89ca779201a584eaf1cfb39fd61</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\hal\hal_i2c_timer.c</file>
-         <hash>fd9c191b24a59ad65c4dfa33706db5d18574d02d222ba401a5081fdf94846e83</hash>
+         <hash>e077bed691004c76b402879bb17984d300ccef2172f012f52315074d5de9c5d4</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\jwt\atca_jwt.h</file>
-         <hash>ccfb57cca5e6a31ca8d2087121469ae41f61ea5d7c826a743a87a160fafcfd49</hash>
+         <hash>b6fedba6e939060ec84ceb5ab62180ed69e1c7caabdec1cc06319d7c351f65f7</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_checkmac.c</file>
-         <hash>cf29af10a23f31c4b38e546e5c0596e85322c860563a7eaaa8c3c05700c763c0</hash>
+         <hash>16ea053572af59f931473a98c9c6ca7a2144f158815cd4cb816ce2fa8354fa3b</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\hashes\sha2_routines.h</file>
-         <hash>41db493ad38a5fb62d292ccf922e87b43eb140b7a99e732e28eee01f5cd750e8</hash>
+         <hash>f8dcc727d71bdd75da8a612173d12b860256857c07ec1568ea78858ee540a1e9</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_aes.c</file>
-         <hash>790be02a622e20adb3d7cffbeb2457e9483f6dfed0c9c960ea039ada57b7af19</hash>
+         <hash>f1a597beefa05bf59f6feceff4357b5978ac53f38c30016ec14849edd915f464</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\utils\utils_assert.h</file>
-         <hash>e905a84f7ae56175568aa2d4d5e2af0757dbe7e01637447b78825965fb926ead</hash>
+         <hash>490e6c785606ae86a0663ef648bd13c440010eb895a4b9caf3cd06876a41c702</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\jwt\atca_jwt.c</file>
-         <hash>38b04f81fe61e6fb63ced880d13bc4fcc3bfd6fff84ed9d78f7622b3b58cdbd2</hash>
+         <hash>9ed46e6cc85a0a98c2d8f5808dfb81027218457ce66728d96df4445a638bee3b</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\hashes\sha2_routines.c</file>
-         <hash>9fd4de8c563993bdf9161e1dd45c3196cbe60741e8a1bc44bb90327c6fb60f8e</hash>
+         <hash>4decf58dd6f75261850c0ffdd3e15a698d93ac956c1ac096867fa5d952915f48</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\src\pins.c</file>
-         <hash>889a22ddf6d1214c27e87d4f808a3fe6c57bf18484776177d938b99295cfe792</hash>
+         <hash>3efb51d36674c3d82969366318d4fb23d7e7c1e4c1e6bececda7bb5a2f35d4dd</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\CryptoAuth_init.c</file>
-         <hash>e3bfe0cf221a830b6cc51e44d4b14c2d7629ba0da5fd110ccb7e183d8208c590</hash>
+         <hash>c4d459599b647da1e59c42f70f82ac4541886c985c220a67f38d87d033cc7448</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\CryptoAuth_init.h</file>
-         <hash>f4b3245f343ace28273d11b3c8ef7d3f2ffb837133bb2469dfeabf95c9427f30</hash>
+         <hash>a507d269066d7a16b9b27c452bee92a5608dc057b8696c1ef5cba0b5c032e87d</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\uart\src\usart3.c</file>
-         <hash>093a739654795fa1b095b35e781688c8b67e5f216641c00ba501ea0d3c355389</hash>
+         <hash>304b97276e133dbd60e760e987a637a06dd2ceabb4ae4e42b993c8a7be89ad11</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\utils\atomic.h</file>
-         <hash>33bdbc1839145b75ae7bc9558dbfff4e387756ab13b717bed4ad03c922e7b896</hash>
+         <hash>d9258aafa3639e3ebe4a4c359887731fa3895ff7e1c934f79dbd5ca4703f7dbf</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert.h</file>
-         <hash>096df6a2a8c849e6548f9796a263a81957d290c667ea2e5c1c29412da14b299b</hash>
+         <hash>1de7859a16409ca0e881ab2f656772ef31137b2a32bebcd232d35a5d1f06cdbe</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\ccp.h</file>
-         <hash>d16be0127047d07a576b1796e5ea9ce73c911cceb4e355882c1359d7d53a4fcb</hash>
+         <hash>cda03ea20db5e711cae1aac246c013ae69bf1f0afeed557882950d3607f256e5</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_command.h</file>
@@ -587,71 +587,71 @@
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_date.c</file>
-         <hash>460dcf3849b05b50d479c818e5cc07e8e92f63191c97e3b41ae2e9507e5dc320</hash>
+         <hash>f1ae650eeea95907595975bd59d635149cc8848896d03aacd875985f616e9b2d</hash>
       </entry>
       <entry>
          <file>main.c</file>
-         <hash>aac0d1f4f09a0fadf6f546ac9f81c703c14e199122dabc2684e6ab08d993ea3a</hash>
+         <hash>a0e31898f37822d5d434ac96e346238a6de7354dfb7de5e96fdcb0bb33f746ed</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\uart\usart1.h</file>
-         <hash>4052a67fb869bc7a75e8882420f72deedb57d3b0057c7a23a679f0473ef166cb</hash>
+         <hash>c56fa675d4e26532aab0c6783f485e0b488b70ce7e05d96c948309f37cb40835</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_command.c</file>
-         <hash>99ec81491f52f896ef669674a4e49d393cc88090917fcda5695bf26214f12e90</hash>
+         <hash>91785c52b4abeec8e6fb077c5dc1e5cba04d2bbe3b5e31e40014a3b1677cac5d</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_random.c</file>
-         <hash>cf90efc5bbd23e5b5b559210007c7d6901e11e18fe84f33fcb1ee27fb9a6e412</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic.c</file>
-         <hash>65cc4d362ee78fd4fc1e3986a34b014dca55f920ed70630a5382174dcdfd7c7f</hash>
+         <hash>50bd7b4367d663f56ec3b03bca15a98d7b60f7b0cec48f77544a69c4cf88ab6b</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_date.h</file>
-         <hash>aa6becf7bbe5c7060a668108de58c9370befbcf896b64bb1bb2136f6d8d58f44</hash>
+         <hash>291eeabffbb7b58e1e77b2f69372ea8f0fcf85f7904764bdf0decc5aaeeaf535</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic.c</file>
+         <hash>acfd32fb1fe8ecd20e592c0c83a41772fe4ab234435ec4917cf24768148196f4</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\utils\utils.h</file>
-         <hash>4bfeefbd27470d9c9c23de24296ca4e55a0118cc88498b84a1ac3e953b3a3555</hash>
+         <hash>bc0aa016351611e3269e4434faa7842d365d11766640615d9af3811829b63083</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_info.c</file>
-         <hash>ae2cabcb97faa53f96e0c8361fa7958d6c18507daccde0f7069680b383e6d02f</hash>
+         <hash>dbc7cda9f2efab54cb219c18d301d7eb845edabe8f3feedbca2e4f8ba86b4cbb</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\utils\assembler.h</file>
-         <hash>a5c1f4a6ab699ba29a095921f768b46814ee8f7cc1a7ebd0445bdcef26c4797a</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_privwrite.c</file>
-         <hash>ed5c6e8bbeb61b5c07d5f06b3847cf4acb71ffce12c1b71721da8d7f1b546eea</hash>
+         <hash>af7ca80987458b2c11435df435c195e47cdfbc61f5f4f09433f4e7ddb0da228a</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_client.h</file>
-         <hash>7774e961cdf11994838e8c52c16e358737880bd0b5062710df762263010dc0dc</hash>
+         <hash>74994351e166247b6fdf826f80dfedb271b21a0318bcec76ffd974a938913a36</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\basic\atca_basic_privwrite.c</file>
+         <hash>490c53f73d0e61c02411d238edc3ba319e5d9cb22fde18edfc732cee61ddbc98</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\crypto\README.md</file>
-         <hash>812536913d2e4ccb79f10dd7d10004c05acc93ceefa61ae5e60632c183424e78</hash>
-      </entry>
-      <entry>
-         <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_client.c</file>
-         <hash>51739aaaa847764eb9328aac19c6c8a0ce12f1fe710d32998b4668b649cc6ba9</hash>
+         <hash>89f2284a69aa100b9501fa478ff47c8a46e60e5d5fc06591e6e1522b0ab56d80</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_cfgs.h</file>
-         <hash>9c139d59d43b880357558e06d4d72e1fbd5ef3075b49fa3bb51063e344564499</hash>
+         <hash>dc03326b11d58a1a0bad7e8333e862f73e3188d6f8b595872c0104c320c0fbcd</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\CryptoAuthenticationLibrary\atcacert\atcacert_client.c</file>
+         <hash>f5bd0dba9ebfe23f9043844c62e03b9a4e11fb60184aa1cb5fc790f8a0b5a933</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\system\protected_io.h</file>
-         <hash>aaa6f1e8dda8eb88d42f17b5b0d225b09dab8022ec5f8ea1eb357a6118e3c302</hash>
+         <hash>f01f98f827219fa550887ee3f97029cd339fa26564a425ab4eb9e3d46a8e4615</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\CryptoAuthenticationLibrary\atca_cfgs.c</file>
-         <hash>6f24077eabcad084cfb9d076e94a8848544e3591073428050dac2d3f26336bd9</hash>
+         <hash>9d485466f9f6f369a9e960b7ac8439ef1cfe9b65b6a552e2f68494684add5c03</hash>
       </entry>
    </generatedFileHashHistoryMap>
 </config>
